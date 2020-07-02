@@ -8,7 +8,7 @@ padHeight = 640
 enemyImage = ['enemy1.png', 'enemy2.png', 'enemy3.png']
 explosionSound = ['boom1.wav', 'boom2.wav','boom3.wav']
 
-rock1Width = 10
+rock1Width = 13
 rock1Height = 35
 rock2Width = 20
 rock2Height = 20 
